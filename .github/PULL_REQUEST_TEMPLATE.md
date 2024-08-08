@@ -2,7 +2,7 @@ Closes: <!-- #issue number  -->
 
 - **Title** : 
 - **Name:** <!--Mention Your name-->
-- **Idenitfy yourself:** <!-- Mention your role (like GSOC, GSSOC, SSOC, etc. Contributor) -->
+- **Idenitfy yourself:** <!-- Mention your role (like Contributor) -->
 
 
 <!-- Mention the following details and these are mandatory -->
@@ -36,7 +36,7 @@ Describe how have you verified the changes made -->
 Example how to mark a checkbox:-
 - [x] My code follows the code style of this project.
 -->
-- [ ] My code follows the [Contributing Guidelines](https://github.com/Avdhesh-Varshney/AI-Code/blob/main/README.md) & [Code of Conduct](https://github.com/Avdhesh-Varshney/AI-Code/blob/main/CODE_OF_CONDUCT.md) of this project.
+- [ ] My code follows the [Contributing Guidelines](https://github.com/insightfulaistrategiesofficial/Medical-Diagnosis-Assistance/blob/main/README.md) & [Code of Conduct](https://github.com/insightfulaistrategiesofficial/Medical-Diagnosis-Assistance/blob/main/CODE_OF_CONDUCT.md) of this project.
 - [ ] This PR does not contain plagiarized content.
 - [ ] I have performed a self-review of my own code.
 - [ ] I have commented my code, particularly wherever it was hard to understand.
